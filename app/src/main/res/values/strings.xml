@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SDK Test</string>
+    <string name="launch_camera">Launch camera</string>
+    <string name="show_fraqment">Show fragment</string>
+</resources>
