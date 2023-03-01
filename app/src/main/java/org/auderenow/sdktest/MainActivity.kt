@@ -20,7 +20,7 @@ class MainActivity : AppCompatActivity() {
         }
 
         viewBinding.showFragmentButton.setOnClickListener {
-            val myIntent = Intent(this, FragmentActivity::class.java)
+            val myIntent = Intent(this, CaptureFragmentActivity::class.java)
             startActivity(myIntent)
         }
     }
